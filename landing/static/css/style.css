@@ -1,0 +1,27 @@
+h1,h2{
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+nav{
+    background-color: darkred;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 120px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-style: oblique;
+    font-size: 16pt;
+}
+
+#texto{
+    color: rebeccapurple;
+    font-size: 30pt;
+
+}
+
+#img{
+    
+}
